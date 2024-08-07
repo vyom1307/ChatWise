@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chatwise</string>
+    <string-array name="com_google_android_gms_fonts_certs">
+        <item>
+            MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7dF48zQw6EsywFzwlyiY
+            hNgL4sJpTrA8ZWdK7D2KEq7H/c+dleO1Fg5dXHPXUgF4tD/6V8sp3PLfl46RUW2H
+            xziISekH/JrEhyKrkqT1gcyolKe8nHB2Hk5owVZMaLHvzZx+EMH5gIbj2KHROQ82
+            a4G8lEnnP+FFDJZr1MEt6aWeUJtPqdzry2B5bkbciA9ebroXAXphvzeJ1dfr6Jz/
+            MrzCIz0YOxKPLDyr1MMX/V9hv+xDAp7A8LbErxbW7Wa1qM6LY+y9kLw11ER6a59s
+            0i/s7q5C3Z+Qel4OgRugklHQOVG6Z6wX5S9cQ9Eq45CLJf/Wdwy1R7qSLdOnes1d
+            0wIDAQAB
+        </item>
+    </string-array>
+</resources>
